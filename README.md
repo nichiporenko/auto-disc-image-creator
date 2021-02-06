@@ -8,4 +8,6 @@ Download CDBurnerXP tool from here: https://cdburnerxp.se/en/download and instal
 
 After the installation edit your `Path` Environment Variable to access the installed tool from anywhere via CMD.
 
-Run the script.
+Run the script from the directory where you want to create disk images.
+
+Insert disc into disc drive.
