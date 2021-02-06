@@ -1,5 +1,5 @@
 # Auto Disc Image Creator
-Script allows you to create disc images in a quick way in Windows. The only action you need to take is to insert new disks into the disk drive when the previous disk is ejected.
+Script allows you to create disc images in a quick way in Windows 10 (at least). The only action you need to take is to insert new disks into the disk drive when the previous disk is ejected.
 
 The script is written for the CDBurnerXP tool.
 
