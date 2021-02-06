@@ -11,3 +11,7 @@ After the installation edit your `Path` Environment Variable to access the insta
 Run the script from the directory where you want to create disk images.
 
 Insert disc into disc drive.
+
+After image creation disc will be automatically ejected.
+
+Insert another one.
